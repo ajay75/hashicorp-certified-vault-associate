@@ -14,9 +14,9 @@ The code mentioned in this document are used in the HashiCorp Certified Vault As
 | 5 | [Token Capabilities][PlDe] |
 | 6 | [Entities and Aliases][PlDf] |
 
-[PlDa]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%202%20-%20Vault%20Authentication%20and%20Authorization/auth.md>
-[PlDb]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%202%20-%20Vault%20Authentication%20and%20Authorization/vault-policies.md>
-[PlDc]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%202%20-%20Vault%20Authentication%20and%20Authorization/approle-auth.md>
-[PlDd]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%202%20-%20Vault%20Authentication%20and%20Authorization/http-api.md>
-[PlDe]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%202%20-%20Vault%20Authentication%20and%20Authorization/capabilities.md>
-[PlDf]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%202%20-%20Vault%20Authentication%20and%20Authorization/entities.md>
+[PlDa]: <https://github.com/ajay75/hashicorp-certified-vault-associate/blob/master/Domain%202%20-%20Vault%20Authentication%20and%20Authorization/auth.md>
+[PlDb]: <https://github.com/ajay75/hashicorp-certified-vault-associate/blob/master/Domain%202%20-%20Vault%20Authentication%20and%20Authorization/vault-policies.md>
+[PlDc]: <https://github.com/ajay75/hashicorp-certified-vault-associate/blob/master/Domain%202%20-%20Vault%20Authentication%20and%20Authorization/approle-auth.md>
+[PlDd]: <https://github.com/ajay75/hashicorp-certified-vault-associate/blob/master/Domain%202%20-%20Vault%20Authentication%20and%20Authorization/http-api.md>
+[PlDe]: <https://github.com/ajay75/hashicorp-certified-vault-associate/blob/master/Domain%202%20-%20Vault%20Authentication%20and%20Authorization/capabilities.md>
+[PlDf]: <https://github.com/ajay75/hashicorp-certified-vault-associate/blob/master/Domain%202%20-%20Vault%20Authentication%20and%20Authorization/entities.md>
