@@ -16,10 +16,10 @@ The code mentioned in this document are used in the HashiCorp Certified Vault As
 | 7 | [Overview of Transit Secret Engine][PlDg] |
 
 
-   [PlDa]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/install-vault-windows.md>
-   [PlDb]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/install-vault-unix.md>
-   [PlDc]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/dev-mode.md>
-   [PlDd]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/managing-secrets.md>
-   [PlDe]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/secret-engine.md>
-   [PlDf]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/lease-management.md>
-   [PlDg]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/transit-engine.md>
+   [PlDa]: <https://github.com/ajay75/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/install-vault-windows.md>
+   [PlDb]: <https://github.com/ajay75/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/install-vault-unix.md>
+   [PlDc]: <https://github.com/ajay75/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/dev-mode.md>
+   [PlDd]: <https://github.com/ajay75/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/managing-secrets.md>
+   [PlDe]: <https://github.com/ajay75/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/secret-engine.md>
+   [PlDf]: <https://github.com/ajay75/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/lease-management.md>
+   [PlDg]: <https://github.com/ajay75/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/transit-engine.md>
